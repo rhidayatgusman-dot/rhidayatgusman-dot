@@ -1,16 +1,35 @@
-## Hi there 👋
+# Halo, saya Rahmat Hidayat Gusman 👋
 
-<!--
-**rhidayatgusman-dot/rhidayatgusman-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya lulusan S1 Sistem Informasi Universitas Metamedia yang tertarik pada analisis sistem dan pengembangan aplikasi web.
 
-Here are some ideas to get you started:
+Saya suka mencari solusi dari masalah yang ada, memahami kebutuhan pengguna, dan mengubahnya menjadi sistem yang praktis dan mudah digunakan. Saat ini, saya terus mengembangkan kemampuan melalui proyek nyata dan belajar teknologi baru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Keahlian
+
+- **Analisis Sistem:** Analisis kebutuhan, perancangan proses bisnis, UML, dan ERD.
+- **Web Development:** PHP, Laravel, JavaScript, dan Vue.js.
+- **Database:** MySQL dan perancangan basis data.
+- **Tools:** Git, GitHub, Visual Studio Code, dan Microsoft Excel.
+
+## Proyek Unggulan
+
+### Sistem Informasi Pemesanan Tiket Lubuk Hitam
+
+Aplikasi berbasis Laravel dan MySQL untuk mendukung proses pemesanan dan pengelolaan tiket wisata. Proyek ini menjadi bagian dari pengalaman saya dalam merancang dan mengembangkan sistem informasi.
+
+[Repository](https://github.com/rhidayatgusman-dot/SI-Pemesanan-Tiket-Lubuk-Hitam)
+
+### HRIS Portal Vue
+
+Proyek pengembangan antarmuka sistem informasi sumber daya manusia menggunakan Vue.js. Mencakup fitur dashboard, absensi, pengajuan cuti, dan reimbursement.
+
+[Repository](https://github.com/rhidayatgusman-dot/hris-portal-vue)
+
+## Pendidikan
+
+**S1 Sistem Informasi**  
+Universitas Metamedia
+
+## Kontak
+
+- GitHub: [rhidayatgusman-dot](https://github.com/rhidayatgusman-dot)
